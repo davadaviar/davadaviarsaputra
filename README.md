@@ -1,4 +1,4 @@
-Hi 👋 My name is Hi 👋 My name is Dava Daviar Saputra
+Hi 👋 My name is Dava Daviar Saputra
 =====================================================
 
 Web Designer
