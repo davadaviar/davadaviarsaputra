@@ -4,7 +4,7 @@ Hi 👋 My name is Dava Daviar Saputra
 Web Designer
 ------------
 
-I've been learning coding for 1+ years. I have interest in front end web development, UI/UX design and product design. 🌍 I'm based in Surabaya, Indonesia ✉️ You can contact me at davadaviarsaputra2345@gmail.com 🧠 I'm learning React.js
+I've been learning coding for 1+ years. I have interest in front end web development, UI/UX design and product design.
 
 * 🌍  I'm based in Surabaya, Indonesia
 * ✉️  You can contact me at [davadaviarsaputra2345@gmail.com](mailto:davadaviarsaputra2345@gmail.com)
